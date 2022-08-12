@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cec37fae0025dad4e9d7f6be4a00957f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gridObjectPrefab: {fileID: 9090775265997941683, guid: 503ac186252768544ab45469d2afdd45, type: 3}
+  - parent: {instanceID: 0}
+  - testCubePrefab: {instanceID: 0}
+  - transparentMat: {fileID: 2100000, guid: 921ece94bf7006642b00c84ddb4b2f56, type: 2}
+  - opaqueMat: {fileID: 2100000, guid: 14eb0120d64c0194a86af28b10c50338, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
