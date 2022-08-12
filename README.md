@@ -1,2 +1,4 @@
 # Grid-System-Unity
-A basic grid placement system made in Unity
+A grid placement system made in Unity
+
+This is still WIP so many features might be missing but the base is there!
